@@ -1,2 +1,2 @@
-# Nhungnhung
-Just a repository for now
+# Nhung's projects
+A repository for my personal projects
